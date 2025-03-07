@@ -115,6 +115,12 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-65" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;触摸屏幕&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="448" y="758" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389" y="437" as="sourcePoint" />
+            <mxPoint x="439" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
