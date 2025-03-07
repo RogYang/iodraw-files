@@ -95,7 +95,7 @@
           <mxGeometry x="1541.5" y="588" width="99" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-156" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="660" width="402.5" height="85.12" as="geometry" />
+          <mxGeometry x="1160" y="660" width="402.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-157" value="触摸交互" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1181.5" y="698.75" width="99" height="41.75" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="1160" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-159" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="660" width="212.5" height="85.12" as="geometry" />
+          <mxGeometry x="1830" y="660" width="212.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-160" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;移动导航&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1832.5" y="660" width="60" height="30" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="1951.88" y="698.75" width="80" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1589" y="660" width="215" height="86.49" as="geometry" />
+          <mxGeometry x="1589" y="660" width="215" height="90" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-175" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;访问层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1580.5" y="660" width="60" height="30" as="geometry" />
