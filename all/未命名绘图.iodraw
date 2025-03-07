@@ -71,19 +71,19 @@
           <mxGeometry x="1150" y="549" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-135" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1682.5" y="550" width="360" height="82.75" as="geometry" />
+          <mxGeometry x="1682.5" y="551" width="360" height="82.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-141" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;远程监护&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1682.5" y="549" width="60" height="30" as="geometry" />
+          <mxGeometry x="1682.5" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-150" value="蓝牙模块" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1712.25" y="588.8100000000001" width="80" height="41.75" as="geometry" />
+          <mxGeometry x="1712.25" y="589.8100000000001" width="80" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-151" value="WI-Fi模块" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1941.25" y="588" width="80" height="41.75" as="geometry" />
+          <mxGeometry x="1941.25" y="589" width="80" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-152" value="USB接口" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1823.75" y="588.8100000000001" width="80" height="41.75" as="geometry" />
+          <mxGeometry x="1823.75" y="589.8100000000001" width="80" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-153" value="蓝牙模块" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1303" y="587.19" width="99" height="41.75" as="geometry" />
