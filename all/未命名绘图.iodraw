@@ -34,7 +34,7 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-9" value="摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="328" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-10" value="排泄收集装置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-10" value="超声波雷达" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="328" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-11" value="排泄收集装置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
