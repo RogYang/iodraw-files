@@ -121,7 +121,7 @@
             <mxPoint x="444" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;应用层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="220" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
