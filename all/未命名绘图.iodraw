@@ -137,7 +137,7 @@
           <mxGeometry x="290" y="740.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;远程监护&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="650.5" width="60" height="30" as="geometry" />
+          <mxGeometry y="650.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
