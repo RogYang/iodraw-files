@@ -16,6 +16,9 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-2" value="STM32H7 主控" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="561" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="at9n-iy0rqAuJ_kRF1BJ-3" target="at9n-iy0rqAuJ_kRF1BJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-3" value="本地数据存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="670" width="110" height="50" as="geometry" />
         </mxCell>
