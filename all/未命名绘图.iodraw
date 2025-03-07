@@ -43,7 +43,7 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-25" value="癫痫检测手环" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="459" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-26" value="排泄监测传感器" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-26" value="输液供给箱" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-27" value="温湿度传感器" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
