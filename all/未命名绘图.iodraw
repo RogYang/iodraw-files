@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="620" width="280" height="179" as="geometry" />
+        </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="428" width="280" height="179" as="geometry" />
         </mxCell>
@@ -105,9 +108,6 @@
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-51" value="TGAM脑波模块" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="149" y="715" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="438" width="280" height="179" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
