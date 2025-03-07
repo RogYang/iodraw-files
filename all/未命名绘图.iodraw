@@ -43,6 +43,12 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-13" value="霍尔编码器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="328" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
