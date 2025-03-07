@@ -25,6 +25,9 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-8" value="TFA脑波模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-9" value="TFA脑波模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
