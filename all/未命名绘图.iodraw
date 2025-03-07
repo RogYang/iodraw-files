@@ -83,7 +83,7 @@
           <mxGeometry x="759" y="482" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="680.5" width="280" height="179" as="geometry" />
+          <mxGeometry y="650" width="280" height="209.5" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-54" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;阿里云数据库&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="697.5" width="120" height="60" as="geometry" />
@@ -134,7 +134,10 @@
           <mxGeometry x="610" y="650.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-76" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;访问层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="299" y="740" width="60" height="30" as="geometry" />
+          <mxGeometry x="290" y="740.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;访问层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="750.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
