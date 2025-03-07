@@ -38,7 +38,7 @@
           <mxGeometry x="160" y="261" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-24" value="摄像头模块" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="261" width="120" height="60" as="geometry" />
+          <mxGeometry x="309" y="261" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-25" value="超声波雷达" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="459" y="261" width="120" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="459" y="331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-31" value="摄像头" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="331" width="120" height="60" as="geometry" />
+          <mxGeometry x="309" y="331" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-32" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;温湿度传感器&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="331" width="120" height="60" as="geometry" />
