@@ -116,10 +116,10 @@
           <mxGeometry x="1442.5" y="698.75" width="99" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-168" value="输液供给箱导航" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1841.25" y="698.75" width="80" height="41.75" as="geometry" />
+          <mxGeometry x="1841.38" y="698.75" width="80" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-169" value="电梯/检查预约" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1951.75" y="698.75" width="80" height="41.75" as="geometry" />
+          <mxGeometry x="1951.88" y="698.75" width="80" height="41.75" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-174" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1589" y="660" width="215" height="86.49" as="geometry" />
