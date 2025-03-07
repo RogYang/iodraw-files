@@ -121,11 +121,14 @@
             <mxPoint x="451.06" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-69" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="220" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-72" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;通讯&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-73" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-74" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据采集&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
