@@ -19,9 +19,6 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-3" value="本地数据存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="660" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="at9n-iy0rqAuJ_kRF1BJ-4" target="at9n-iy0rqAuJ_kRF1BJ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-4" value="异常检测与报警" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="660" width="110" height="50" as="geometry" />
         </mxCell>
