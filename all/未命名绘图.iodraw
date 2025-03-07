@@ -109,7 +109,7 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-60" value="串口通讯" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="619" y="638" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-61" value="USB接口" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-61" value="语音交互" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="758" y="553" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-62" value="蓝牙模块" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
