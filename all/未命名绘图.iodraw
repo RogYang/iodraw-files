@@ -127,19 +127,13 @@
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-175" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;访问层&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1580.5" y="660" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-176" value="移动设备\电脑" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1589" y="790" width="80" height="41.75" as="geometry" />
-        </mxCell>
-        <mxCell id="at9n-iy0rqAuJ_kRF1BJ-177" value="触摸屏幕" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="1700.5" y="790" width="80" height="41.25" as="geometry" />
-        </mxCell>
         <mxCell id="at9n-iy0rqAuJ_kRF1BJ-182" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;控制与处理&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OmVZ89Ts_grt33u28OHW-1" value="移动设备\电脑" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1601.75" y="703.75" width="78.25" height="41.75" as="geometry" />
+          <mxGeometry x="1601.75" y="703.75" width="88.25" height="41.75" as="geometry" />
         </mxCell>
-        <mxCell id="OmVZ89Ts_grt33u28OHW-2" value="电梯/检查预约" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="OmVZ89Ts_grt33u28OHW-2" value="触摸屏幕" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1712.25" y="703.75" width="80" height="41.75" as="geometry" />
         </mxCell>
       </root>
