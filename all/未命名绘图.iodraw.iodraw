@@ -109,6 +109,9 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-53" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="78" width="20" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-57" value="\begin{align}&#xa;{\scriptsize \begin{array}{c}&#xa;K_{P} e\left ( t \right ) &#xa;\end{array}} &#xa;\end{align}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="79" width="40" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
