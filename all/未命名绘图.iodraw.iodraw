@@ -30,7 +30,7 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-5" target="dyarbqMU7qqvG9fDvvLc-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-5" value="P" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-6" target="dyarbqMU7qqvG9fDvvLc-8">
