@@ -112,11 +112,8 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-57" value="\begin{align}&#xa;{\scriptsize \begin{array}{c}&#xa;K_{P} e\left ( t \right ) &#xa;\end{array}} &#xa;\end{align}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="138" width="40" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-64" value="\begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize \begin{array}{c}&#xa;{\small \begin{align}&#xa;K_{i} \int_{t}^{0} e\left ( \tau  \right ) \mathrm{d}t &#xa;\end{align}} &#xa;\end{array}} &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="220" width="290" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-65" value="\begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize \begin{array}{c}&#xa;{\small \begin{align}&#xa;K_{i} \int_{t}^{0} e\left ( \tau  \right ) \mathrm{d}t &#xa;\end{align}} &#xa;\end{array}} &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="180" width="290" height="150" as="geometry" />
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-67" value="\begin{array}{c}&#xa;{\scriptsize } K_{i} \int_{t}^{0} e\left ( \tau  \right ) \mathrm{d}t &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="220" width="350" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
