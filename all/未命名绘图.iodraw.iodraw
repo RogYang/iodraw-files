@@ -66,16 +66,15 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-9" value="控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="230" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-10" target="dyarbqMU7qqvG9fDvvLc-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="dyarbqMU7qqvG9fDvvLc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441" y="385" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-10" value="测量元件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441" y="370" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-32" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="dyarbqMU7qqvG9fDvvLc-10">
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-32" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="250" as="sourcePoint" />
-            <mxPoint x="620" y="319.48" as="targetPoint" />
+            <mxPoint x="521" y="385" as="targetPoint" />
             <Array as="points">
               <mxPoint x="760" y="385" />
             </Array>
@@ -111,14 +110,17 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-53" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="78" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-57" value="\begin{array}{c}&#xa;&#xa;{\small } K_{P} e\left ( t \right ) &#xa;&#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="138" width="40" height="41" as="geometry" />
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-57" value="\begin{array}{c}&#xa;&#xa; {\tiny } K_{P} e\left ( t \right ) &#xa;&#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="138.5" width="40" height="41" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-68" value="\begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize } K_{i} \int_{t}^{0} e\left ( \tau  \right ) \mathrm{d}t &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477" y="220" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-74" value="\begin{array}{c}&#xa;&#xa;&#xa;&#xa;&#xa;{\small } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-74" value="\begin{array}{c}&#xa;&#xa;&#xa;&#xa;&#xa;{\tiny } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="300" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-76" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="441" y="370" width="99" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
