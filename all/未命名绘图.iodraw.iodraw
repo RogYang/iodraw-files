@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-82" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-3" target="dyarbqMU7qqvG9fDvvLc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -121,9 +124,6 @@
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-79" value="测量元件" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="370" width="99" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-81" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="225" y="119" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
