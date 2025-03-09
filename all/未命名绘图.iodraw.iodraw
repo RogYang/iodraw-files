@@ -45,15 +45,17 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="305" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-8" target="dyarbqMU7qqvG9fDvvLc-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="245" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-8" value="∑" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#B3B3B3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="230" width="30" height="30" as="geometry" />
+          <mxGeometry x="590" y="230" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="790" y="245" as="targetPoint" />
+            <mxPoint x="800" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-33" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dyarbqMU7qqvG9fDvvLc-24">
@@ -62,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-9" value="控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="650" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-10" target="dyarbqMU7qqvG9fDvvLc-3">
           <mxGeometry relative="1" as="geometry" />
