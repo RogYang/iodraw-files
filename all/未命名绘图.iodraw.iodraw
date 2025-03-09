@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="516" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="737" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -117,8 +117,8 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-68" value="\begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize } K_{i} \int_{t}^{0} e\left ( \tau  \right ) \mathrm{d}t &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477" y="220" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-71" value="\begin{array}{c}&#xa;{\small \begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;\end{array}} &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="300" width="390" height="100" as="geometry" />
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-72" value="\begin{array}{c}&#xa;{\small \begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;\end{array}} &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="300" width="390" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
