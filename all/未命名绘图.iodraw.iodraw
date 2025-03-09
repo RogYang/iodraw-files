@@ -113,7 +113,7 @@
           <mxGeometry x="480" y="138" width="40" height="41" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-67" value="\begin{array}{c}&#xa;{\scriptsize } K_{i} \int_{t}^{0} e\left ( \tau  \right ) \mathrm{d}t &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="220" width="350" height="70" as="geometry" />
+          <mxGeometry x="120" y="253.5" width="350" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
