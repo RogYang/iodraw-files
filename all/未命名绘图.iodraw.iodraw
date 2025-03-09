@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441" y="305" width="80" height="40" as="geometry" />
+          <mxGeometry x="441" y="305" width="99" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dyarbqMU7qqvG9fDvvLc-8">
           <mxGeometry relative="1" as="geometry">
@@ -118,7 +118,7 @@
           <mxGeometry x="10" y="8" width="350" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-71" value="\begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="410" width="390" height="100" as="geometry" />
+          <mxGeometry x="500" y="300" width="390" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
