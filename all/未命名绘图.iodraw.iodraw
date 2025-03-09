@@ -109,7 +109,7 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-53" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="78" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-54" value="&lt;div&gt;\begin{eqnarray}&lt;/div&gt;&lt;div&gt;K_{P} e\left ( t \right )&amp;nbsp;&lt;/div&gt;&lt;div&gt;\end{eqnarray}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-54" value="&lt;div&gt;\begin{align}&lt;/div&gt;&lt;div&gt;K_{P} e\left ( t \right )&amp;nbsp;&lt;/div&gt;&lt;div&gt;\end{align}&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
