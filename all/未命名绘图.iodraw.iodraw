@@ -117,8 +117,8 @@
         <mxCell id="dyarbqMU7qqvG9fDvvLc-68" value="\begin{array}{c}&#xa;{\tiny \begin{array}{c}&#xa;{\scriptsize } K_{i} \int_{t}^{0} e\left ( \tau  \right ) \mathrm{d}t &#xa;\end{array}} &#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="477" y="220" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dyarbqMU7qqvG9fDvvLc-73" value="\begin{array}{c}&#xa;{\normalsize } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;&#xa;&#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="300" width="390" height="100" as="geometry" />
+        <mxCell id="dyarbqMU7qqvG9fDvvLc-74" value="\begin{array}{c}&#xa;&#xa;&#xa;&#xa;&#xa;{\small } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="300" width="360" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
