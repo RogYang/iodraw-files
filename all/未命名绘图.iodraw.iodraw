@@ -60,7 +60,7 @@
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-33" value="输出" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dyarbqMU7qqvG9fDvvLc-24">
           <mxGeometry x="0.1141" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-9" value="控制器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -118,7 +118,7 @@
           <mxGeometry x="477" y="220" width="143" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dyarbqMU7qqvG9fDvvLc-74" value="\begin{array}{c}&#xa;&#xa;&#xa;&#xa;&#xa;{\tiny } K_{d} \frac{\mathrm{d} e\left ( t \right ) }{\mathrm{d} t} &#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;\end{array}" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="300" width="360" height="210" as="geometry" />
+          <mxGeometry x="490" y="300" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
